@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CandleDev1/Cps-Counter-pm4
+build-by-default: true
+branches:
+- main
+projects:
+  Cps-Counter-pm4:
+    path: ""
+...

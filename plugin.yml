@@ -1,0 +1,6 @@
+name: CpsCounter
+main: candle\cps\Main
+api: 4.0.0
+version: 0.0.1
+website: discord.gg/retronix
+author: candle#1166
